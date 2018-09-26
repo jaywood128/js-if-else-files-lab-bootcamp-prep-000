@@ -2,8 +2,8 @@ var name = "Joe"
 var height = "74"
 if (name === "Susan") {
   console.log("The name is correct")
-  else {
-    `Expected name: Susan, Received: ${name}` 
+}  else {
+    `Expected name: Susan, Received: ${name}`
   }
 }
 if (height === 70) {
