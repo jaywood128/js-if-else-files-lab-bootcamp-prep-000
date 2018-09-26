@@ -5,7 +5,7 @@ if (name === "Susan") {
 }  else {
     `Expected name: Susan, Received: ${name}`
   }
-}
+
 if (height === 70) {
   console.log "The height is correct"
 } else{
